@@ -20,3 +20,5 @@ curl -X GET 'http://10.2.68.30:801/eportal/portal/login?callback=dr1003&login_me
 [Windows开机自动认证](boot_login_in_windows.md) （电脑有时关机后开机就要重新登录很烦）
 
 [Ubuntu定期认证](regular_login_in_ubuntu.md) (插网线的服务器认证后保持了几天后就要重新认证)
+
+# [shay-nin](https://github.com/shay-nin)：[选择出口为校园网](use_telecom_outbound.md)
